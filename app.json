@@ -1,0 +1,17 @@
+{
+  "name": "mRankFinal",
+  "displayName": "mRankFinal",
+  "expo": {
+    "name": "mRankFinal",
+    "slug": "mRankFinal",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
