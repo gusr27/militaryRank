@@ -8,19 +8,19 @@
     "test": "jest"
   },
   "dependencies": {
-    "expo": "^37.0.7",
-    "expo-font": "^8.1.1",
+    "expo": "^38.0.0",
+    "expo-font": "~8.2.1",
     "expo-optimize": "^0.1.40",
-    "expo-updates": "^0.1.2",
+    "expo-updates": "~0.2.8",
     "native-base": "2.13.8",
-    "react": "~16.9.0",
-    "react-dom": "~16.9.0",
-    "react-native": "~0.61.4",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-native": "0.62.2",
     "react-native-gesture-handler": "~1.6.0",
-    "react-native-reanimated": "~1.7.0",
+    "react-native-reanimated": "~1.9.0",
     "react-native-router-flux": "^4.2.0",
-    "react-native-screens": "~2.2.0",
-    "react-native-unimodules": "~0.9.0",
+    "react-native-screens": "~2.9.0",
+    "react-native-unimodules": "~0.10.1",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {

@@ -1,9 +1,9 @@
 {
-  "name": "mRankFinal",
-  "displayName": "mRankFinal",
+  "name": "MilitaryRanks",
+  "displayName": "MilitaryRanks",
   "expo": {
-    "name": "mRankFinal",
-    "slug": "mRankFinal",
+    "name": "MilitaryRanks",
+    "slug": "MilitaryRanks",
     "version": "1.0.0",
     "platforms": [
       "ios",

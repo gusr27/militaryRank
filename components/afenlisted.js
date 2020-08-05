@@ -1,14 +1,33 @@
-import React, { Component } from 'react';
+import React, { useState, Component }from 'react';
 import {Container, Content, Left, Header, Body, Card,Grid, CardItem,Row, Col,Title,Text,ListItem, List,Icon,Thumbnail, Button} from 'native-base';
 import { Router, Scene, Stack,Actions} from 'react-native-router-flux';
-import {TouchableOpacity, StyleSheet,ImageBackground, Image,View, Dimensions} from 'react-native';
+import {TouchableOpacity, TouchableHighlight,StyleSheet,ImageBackground, Image,View, Dimensions, Modal} from 'react-native';
 
 import AFMenu from './asmenu.js';
 import NavBar from './NavBar.js';
 import Images from '@images/images';
-export default class AirForceEnlisted extends Component {
-  render(){
-      let {height, width} = Dimensions.get('window');
+
+
+class AirForceEnlisted extends Component{
+    constructor(props){
+        super(props);
+        this.state={
+            modalTitle:"Airman2",
+            modalVisible:false,
+            setModalVisible:false
+        }
+          
+    }
+    
+    changeModal(){
+        this.setState((state,props) => ({
+            modalVisible: !state.modalVisible
+        }))
+    }
+     
+    render(){
+         let {height, width} = Dimensions.get('window');  
+
     return(
         
          
@@ -23,14 +42,19 @@ export default class AirForceEnlisted extends Component {
                 <Row>
                     <Col>
                         
-                              
-                                <Image square resizeMode={"contain"} style={{height: 150, width: 150}}  source={Images.AF[0].ranks[0]}/>
+                              <TouchableOpacity onPress={() => {
+                this.changeModal();
+                this.setState({modalTitle: "Airman5"})
+              }}>
+                            <Image square resizeMode={"contain"} style={{height: 150, width: 150}}  source={Images.AF[0].ranks[0]} />
+                        </TouchableOpacity>
+                                
 
                          
 
                     </Col>
                     <Col>
-                         <Image square resizeMode={"contain"} style={{height: 150, width: 150}}  source={Images.AF[0].ranks[0]}/>
+                         <Image square resizeMode={"contain"} style={{height: 150, width: 150}}  source={Images.AF[0].ranks[1]}/>
                     </Col>
                 </Row>
                 <Row style={{paddingTop: 50}}>
@@ -57,13 +81,80 @@ export default class AirForceEnlisted extends Component {
                           </Card>
                     </Col>
                 </Row>
+                
             </Grid>
-            
-             
+             <Modal
+        animationType="fade"
+        transparent={true}
+        visible={this.state.modalVisible}
+        
+      >
+        <View style={styles.centeredView}>
+          <View style={styles.modalView}>
+            <Text style={styles.modalText}>{this.state.modalTitle}</Text>
+              <Image square resizeMode={"contain"} style={{height: 150, width: 150}}  source={Images.AF[0].ranks[0]}/>
+            <TouchableHighlight
+              style={{ ...styles.openButton, backgroundColor: "#2196F3" }}
+              onPress={() => {
+                this.changeModal();
+              }}
+            >
+                
+              <Text style={styles.textStyle}>Hide Modal</Text>
+            </TouchableHighlight>
+               
+          </View>
+        </View>
+      </Modal>
+
+     
+       
+     
         </Container>
           
      
-    );
+          );
+    }
+};
+
+const styles = StyleSheet.create({
+  centeredView: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    marginTop: 22
+  },
+  modalView: {
+    margin: 20,
+    backgroundColor: "white",
+    borderRadius: 20,
+    padding: 35,
+    alignItems: "center",
+    shadowColor: "#000",
+    shadowOffset: {
+      width: 0,
+      height: 2
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 5
+  },
+  openButton: {
+    backgroundColor: "#F194FF",
+    borderRadius: 20,
+    padding: 10,
+    elevation: 2
+  },
+  textStyle: {
+    color: "white",
+    fontWeight: "bold",
+    textAlign: "center"
+  },
+  modalText: {
+    marginBottom: 15,
+    textAlign: "center"
   }
-}
+});
+
+export default AirForceEnlisted;
 
