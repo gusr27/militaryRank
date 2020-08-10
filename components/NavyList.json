@@ -1,0 +1,123 @@
+[{
+  "id":0, "title":"Seaman Apprentice",
+    "branch": "Navy",
+    "grade":"E-2",
+    "description":'Seaman Recruit is the second-lowest among enlisted ranks in the USN. Navy Seamen are considered apprentices in training for their warfare community.\n\n There is not much difference between the lives of an E-1 or E-2. Such sailors may or may not have a rating; they may be in school or in the Fleet; but no matter what, most of their time is divided between studying and menial service labor.',
+    "nato":"OR-2",
+    "abv":"SA",
+    "address":"Seaman (last name), Fireman (last name), Constructionman (last name), Airman (last name)",
+    "pay":"$1,793/mo"
+},
+ {
+  "id":1, "title":"Seaman",
+    "branch": "Navy",
+    "grade":"E-3",
+    "description":'Seaman is the third-lowest among enlisted ranks in the USN. Navy Seamen are considered apprentices in training for their warfare community. Most E-3s have already arrived to the Fleet; others, such as highly technical Nuclear ratings or Special Warfare Operators (SEALs) continue training.\n\ Fleet E-3s, despite still being low-ranking Seamen, are more likely to have earned their basic qualifications and know their way around a ship than their inferiors. Experience and knowledge give a sailor much more credit than rank does. Fleet E-3s are likely to have significant responsibilities within their Division, to include basic maintenance and watchstanding, and are beginning their preparations to become Petty Officers. They complete indoctrination courses lead by other Petty Officers, and study for their first rating exams. Life can be stressful for E-3s, but with the support of their Division, they can succeed and promote to the next rank.',
+    "nato":"OR-3",
+    "abv":"SN",
+    "address":"Seaman (last name), Fireman (last name), Constructionman (last name), Airman (last name)",
+    "pay":"$1,885/mo"
+},
+ {
+  "id":2, "title":"Petty Officer Third Class",
+    "branch": "Navy",
+    "grade":"E-4",
+    "description":'Nearly all sailors who have reached the rank of 3rd Class Petty Officer have by now made it to the Fleet. Rare exceptions include exceptional E-4s who are promoted while in school, or are selected to teach immediately upon graduation and spend an additional two to three years at their school house.\n\n E-4s are the most junior of the Petty Officer ranks. Petty Officers are considered self-sufficient leaders and know what work needs to be done without being told. They are qualified basic watchstations and can conduct maintenance and repairs of most equipment under their Division\'s cognizance. They mentor junior Seamen and are in charge of day-to-day business in the absence of their seniors. They take on progressively greater leadership roles and may have one or more Collateral Duties. They begin attending advanced schools and qualifications within their rate. Every day, they continue learning more about their jobs so they can progress to the next rank and assume more responsibilities.',
+    "nato":"OR-4",
+    "abv":"PO3",
+    "address":"Petty Officer (last name)",
+    "pay":"$2,088/mo"
+},
+ {
+  "id":3, "title":"Petty Officer Second Class",
+    "branch": "Navy",
+    "grade":"E-5",
+    "description":'E-5s are the mid-grade Petty Officers. 2nd Class Petty Officers are self-sufficient leaders and know what work needs to be done without being told. They are qualified most of their in-rate watchstations and can conduct maintenance and repairs of all equipment under their Division\'s cognizance. They mentor junior Seamen and Petty Officers and are in charge of day-to-day business in the absence of their seniors. They take on progressively greater leadership roles and may have several important Collateral Duties. They should have attended advanced schools (such as "C-School") and begun supervisory qualifications. Every day, they continue learning more about their jobs so they can progress to the next rank and assume more responsibilities. They are in training to become leaders of their Divisions and collectively have a significant impact in the overall performance of their unit.',
+    "nato":"OR-5",
+    "abv":"PO2",
+    "address":"Petty Officer (last name)",
+    "pay":"$2,278/mo"
+},
+ {
+  "id":4, "title":"Petty Officer First Class",
+    "branch": "Navy",
+    "grade":"E-6",
+    "description":'E-6s are the high-grade Petty Officers. 1st Class Petty Officers are the Divisional leadership, delegating and overseeing all work that needs to be done, and only executing the most difficult and complex tasks themselves. They should be qualified all of their in-rate watchstations and in the process of supervisory qualifications. They mentor junior Petty Officers and are in charge of day-to-day business, and are advised and mentors by Chief Petty Officers (CPOs). They hold primary Collateral Duties such as Work Center Supervisor. They are in training to become Chief Petty Officers and collectively have a significant impact in the overall performance of their unit.',
+    "nato":"OR-6",
+    "abv":"PO1",
+    "address":"Petty Officer (last name)",
+    "pay":"$2,486/mo"
+},
+ {
+  "id":5, "title":"Cheif Petty Officer",
+    "branch": "Navy",
+    "grade":"E-7",
+    "description":'Chief Petty Officers are the true "deckplate" (ground-level) leadership of the Navy. Chiefs wear the same khaki uniforms as officers and are given due respect. They are highly seasoned technical experts and leaders of sailors of their own rate. Good Chiefs ensure that their sailors are physically and emotionally taken care of, and are steadily advancing in their careers. They supervise and mentor 1st and 2nd Class Petty Officers in the day-to-day running of the Division, and only take over when the problems they face are new and highly complex.\n\n The training and mentoring of Junior Officers is a primary duty of Chief Petty Officers. A Division Officer and Division Chief are meant to be hand-in-hand Divisional leaders; however, most of this effort for the first few months is the Chief teaching his or her Division Officer how to interact with sailors and perform their jobs. An effective Officer-Chief duo is one where the Division Officer handles the vast majority of high-level administration, the Division Chief handles personnel and equipment issues, and the two communicate important items on a daily basis.\n\nOnce promoted, a Chief Petty Officer joins the "Chiefs\' Mess" (or "goat locker"), the community of E-7s through E-9s that eats, sleeps, relaxes, and fights together. Each Chief represents his or her own Division or Department against the others, and important issues are often worked out behind closed doors. Elder Chiefs continue to mentor junior Chiefs throughout their careers.',
+    "nato":"OR-7",
+    "abv":"CPO",
+    "address":"Chief (last name)",
+    "pay":"$2,875/mo"
+},
+ {
+  "id":6, "title":"Senior Chief Petty Officer",
+    "branch": "Navy",
+    "grade":"E-8",
+    "description":'Senior Chiefs are seasoned and exceptional compared to ordinary Chiefs. They typically work with Department Heads as Department Chiefs (for Combat Systems, Engineering, Supply, etc.). They have a heavier voice within the Chiefs\' Mess, and are largely responsible for training new Chiefs. They are usually more removed from the "deckplate" than ordinary Chiefs. Some E-8s may serve as Command Master Chief or Chief of the Boat for their unit.',
+    "nato":"OR-8",
+    "abv":"SCPO",
+    "address":"Senior Chief (last name), Informal: Senior | NEVER CHIEF",
+    "pay":"$4,136/mo"
+},
+ {
+  "id":7, "title":"Master Chief Petty Officer",
+    "branch": "Navy",
+    "grade":"E-9",
+    "description":'Master Chiefs are the most seasoned and exceptional among Chiefs. Sometimes they are "Department Chiefs", but by and large are the heaviest voices within the Chiefs\' Mess, representing large Departments on large ships. They ensure unity, communication, and cooperation in the Chiefs\' Mess. One among them is the Command Master Chief or Chief of the Boat.',
+    "nato":"OR-9",
+    "abv":"MCPO",
+    "address":"Master Chief (last name) | NEVER CHIEF",
+    "pay":"$5,052/mo"
+},
+ {
+  "id":9, "title":"Command Senior Chief Petty Officer",
+    "branch": "Navy",
+    "grade":"E-8",
+    "description":'As of 2005 and after a pilot program taking place on three mine countermeasures ships, the Navy started appointing senior chiefs to command roles. Until this time, senior chiefs had a senior enlisted leadership role in the submarine force as chiefs of the boat. This new effort works to formalize leadership at the senior chief level. In July 2015, the rate was formally established as a rating. Before it had been a billet instead of a rating.',
+    "nato":"OR-8",
+    "abv":"CMDCS",
+    "address":"Command Senior Chief (last name)",
+    "pay":"$/mo"
+},
+ {
+
+
+     "id":8, "title":"Command Master Chief Petty Officer",
+    "branch": "Navy",
+    "grade":"E-9",
+    "description":'Command Master Chiefs are the singular leading Chief on ships or shore-based units. They are the principal enlisted advisor to the Commanding Officer. The CO, XO, and CMC form the "Command Team". CMCs set the example for all enlisted sailors, and enormously set the tone for the unit. On a Submarine, the CMC is instead referred to as the "Chief of the Boat", or COB.\n\n Additionally, Combatant Commanders and Geographic Commanders have their own senior enlisted advisors known as Fleet Master Chiefs and Force Master Chiefs, whose roles are similar to CMC/COB but at a much higher level. There are 20 such leaders within the US Navy, plus those who serve at Joint Commands.\n\n CMDCM is its own unique rate -- the CMC/COB is no longer affiliated with his or her previous rate of Electrician\'s Mate, Machinist\'s Mate, etc.',
+    "nato":"OR-9",
+    "abv":"CMDCM",
+    "address":"CMC (last name), COB (last name) | NEVER MASTER CHIEF OR CHIEF",
+    "pay":"$5,052/mo"
+},
+ {
+  "id":10, "title":"Fleet/Force Master Chief Petty Officer",
+    "branch": "Navy",
+    "grade":"E-9",
+    "description":'A force master chief petty officer (FORCM) is a master chief who has virtually the same responsibility as command master chiefs, but for larger force commands rather than a single unit.',
+    "nato":"OR-9",
+    "abv":"FLTCM/FORCM",
+    "address":" (last name)",
+    "pay":"$5,052/mo"
+},
+ {
+  "id":11, "title":"Master Chief Petty Officer of the Navy",
+    "branch": "Navy",
+    "grade":"E-9",
+    "description":'The Master Chief Petty Officer of the Navy (MCPON) is the senior enlisted person in the Navy, and is the principal enlisted advisor of the Chief of Naval Operations. His/her primary duty is to address the concerns of enlisted sailors throughout the Navy, and gathers these opinions by constantly touring units across the country.',
+    "nato":"OR-9",
+    "abv":"MCPON",
+    "address":"MCPON (last name)",
+    "pay":"$5,052/mo"
+}
+]

@@ -1,7 +1,6 @@
 import * as React from 'react';
 import {Image,StyleSheet} from 'react-native';
 import {Tab, Tabs,TabHeading,Text} from 'native-base';
-import {Router,Actions,Scene,Stack} from 'react-native-router-flux';
 
 import AFMenu from './asmenu.js';
 import Navy from './navy.js';
@@ -21,7 +20,7 @@ export default class NavBar extends React.Component{
               <AFMenu/>
             </Tab>
             <Tab heading={ <TabHeading><Image source={Images.ArmyLogo} style={styles.logo}/><Text style={{color:"black"}}>ARMY</Text></TabHeading>}>
-                
+
             </Tab>
             <Tab heading={ <TabHeading><Image source={Images.NavyLogo} style={styles.logo}/><Text style={styles.navyText}>NAVY</Text></TabHeading>}>
                 <Navy/>
@@ -42,9 +41,9 @@ const styles = StyleSheet.create({
     logo:{
         width: 20,
         height: 20
-        
+
     },
-    
+
     navyText:{
         color: "#000066"
     }
