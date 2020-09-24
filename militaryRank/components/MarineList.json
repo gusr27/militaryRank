@@ -1,0 +1,112 @@
+[{
+  "id":0, "title":"Private First Class",
+    "branch": "Marines",
+    "grade":"E-2",
+    "description":'PFC is the second-lowest among Enlisted ranks in the USMC. There is not much difference between the lives of an E-1 or E-2. They may be in school or in the Fleet; but no matter what, most of their time is divided between studying and menial labor.',
+    "nato":"OR-2",
+    "abv":"PFC",
+    "address":"PFC (last name)",
+    "pay":"$1,793/mo"
+},
+ {
+  "id":1, "title":"Lance Corporal",
+    "branch": "Marines",
+    "grade":"E-3",
+    "description":'Lance Corporal is the third-lowest among Enlisted ranks in the USMC. Most E-3s have already arrived to the Fleet; others highly technical ratings might continue training.\n\n Fleet E-3s are more likely to know their way around than E-1s and E-2s. Experience and knowledge give a Marine much more credit than rank does. Fleet E-3s must begin competing for promotion to NCO status, which means they need to work on self-education courses, take on collateral duties (such as Fire Team Leader), and demonstrate leadership. Some Marines may hopelessly spend their entire commitment to the Marines as E-3s and never promote to E-4, thereby leaving as "Terminal Lances".',
+    "nato":"OR-3",
+    "abv":"LCpl",
+    "address":"Lance Corporal (last name)",
+    "pay":"$1,885/mo"
+},
+ {
+  "id":2, "title":"Corporal",
+    "branch": "Marines",
+    "grade":"E-4",
+    "description":'Corporal is the fourth among Enlisted ranks in the USMC. It is the first Non-Commissioned Officer rank, with the expectations of leading and setting expectations for junior Enlisted Marines. It is rare to see a group of junior Enlisted Marines without a Corporal or higher ranking Marine to supervise them.\n\n Corporals are often Squad Leaders, leading two Fire Teams of four Marines each. Corporals continue developing their own skills through schools, self-education, strict self-discipline, and mentorship from higher-ranking Marines. Learning never stops, especially if Marines are intent on making the military a career.',
+    "nato":"OR-4",
+    "abv":"Cpl",
+    "address":"Corporal (last name)",
+    "pay":"$2,088/mo"
+},
+ {
+  "id":3, "title":"Sergeant",
+    "branch": "Marines",
+    "grade":"E-5",
+    "description":'Sergeant is the fifth among Enlisted ranks in the USMC. It is the second Non-Commissioned Officer rank, with ever-higher expectations of leading and setting expectations for junior Enlisted Marines.\n\n Sergeants are sometimes Squad Leaders in charge of 8 Marines, and in some cases Platoon Sergeants in charge of 3-5 Squads. They usually lead unit-level training. Sergeants continue developing their own skills through schools, self-education, strict self-discipline, and mentorship from Staff NCOs. It is critical for Sergeants to master their MOS as well as their interpersonal and leadership skills if they wish to become Staff Non-Commissioned Officers. Only the most elite are chosen to become Drill Instructors, enduring hell in order to earn their dreaded "green belts".',
+    "nato":"OR-5",
+    "abv":"Sgt",
+    "address":"Sergeant (last name)",
+    "pay":"$2,278/mo"
+},
+ {
+  "id":4, "title":"Staff Sergeant",
+    "branch": "Marines",
+    "grade":"E-6",
+    "description":'Staff Sergeant is the sixth among Enlisted ranks in the USMC. It is the first Staff Non-Commissioned Officer rank, with the clear distinction of being both a career Marine and someone never to piss off.\n\n Staff Sergeants are usually Platoon Sergeants in charge of 40-50 Marines. They must recognize the Marines with the most potential and help them get promoted, and spend extra dedication aiding Marines who struggle at their jobs. One primary duty for Staff Sergeants is training Junior Officers, who might be mature enough to have graduated college, but know nothing about the Fleet. Being a Staff Sergeant means the Corps is your life, and your mastery of interpersonal and technical skills must keep increasing.\n\ Only the most elite are chosen to become Drill Instructors, enduring hell in order to earn their dreaded "green belts", or even their master "black belts".',
+    "nato":"OR-6",
+    "abv":"SSgt",
+    "address":"Staff Sergeant (last name) | NEVER SARGE OR SERGEANT",
+    "pay":"$2,486/mo"
+},
+ {
+  "id":5, "title":"Gunnery Sergeant",
+    "branch": "Marines",
+    "grade":"E-7",
+    "description":'Gunnery Sergeant is the seventh among Enlisted ranks in the USMC. It is the second Staff Non-Commissioned Officer rank, with the clearest distinction of being someone never to piss off. Marine Gunnery Sergeants are often famously portrayed in movies as Drill Instructors -- with such adaptations almost always far tamer than real life.\n\n Gunnery Sergeants usually lead at the Company level, advising Captains on material and personnel readiness. They may serve on Battalion-level staffs, or may be in charge of training units or recruiting stations in the absence of an Officer to fill the billet. Their growth in technical and interpersonal leadership continues.',
+    "nato":"OR-7",
+    "abv":"GySgt",
+    "address":"Gunnery Sergeant (last name), Informal: Gunny",
+    "pay":"$2,875/mo"
+},
+ {
+  "id":6, "title":"Master Sergeant",
+    "branch": "Marines",
+    "grade":"E-8",
+    "description":'Master Sergeant is the eighth among Enlisted ranks in the USMC, equal in rank but different in responsibilities than a First Sergeant. Master Sergeants are technical managers, while First Sergeants are personnel managers.\n\n Master Sergeants may serve on Battalion, Regiment, or Brigade level staffs, advising Majors or Lieutenant Colonels of the readiness of their units with respect to equipment and programs.',
+    "nato":"OR-8",
+    "abv":"MSgt",
+    "address":"Master Sergeant (last name)",
+    "pay":"$4,136/mo"
+},
+ {
+  "id":7, "title":"First Sergeant",
+    "branch": "Marines",
+    "grade":"E-8",
+    "description":'First Sergeant is the eighth among Enlisted ranks in the USMC, equal in rank but different in responsibilities than a Master Sergeant. Master Sergeants are technical managers, while First Sergeants are personnel managers.\n\n First Sergeants typically lead at the Company level, advising Captains or Majors of the readiness of their units with respect to personnel.',
+    "nato":"OR-8",
+    "abv":"1stSg",
+    "address":"First Sergeant (last name)",
+    "pay":"$4,136/mo"
+},
+ {
+  "id":8, "title":"Master Gunnery Sergeant",
+    "branch": "Marines",
+    "grade":"E-9",
+    "description":'Master Gunnery Sergeant is the ninth among Enlisted ranks in the USMC, equal in rank but different in responsibilities than a Sergeant Major. Master Gunnery Sergeants are technical managers, while Sergeants Major are personnel managers.\n\n Master Gunnery Sergeants lead at the Battalion level or higher, all the way up to Force levels, advising Majors all the way up to Generals of the readiness of their units with respect to equipment and programs.',
+    "nato":"OR-9",
+    "abv":"",
+    "address":"Master Gunnery Sergeant (last name), Informal: Master Guns",
+    "pay":"$5,052/mo"
+},
+ {
+  "id":9, "title":"Sergeant Major",
+    "branch": "Marines",
+    "grade":"E-9",
+    "description":'Sergeant Major is the ninth among Enlisted ranks in the USMC, equal in rank but different in responsibilities than a Master Gunnery Sergeant. Master Gunnery Sergeants are technical managers, while Sergeants Major are personnel managers.\n\n Sergeants Major lead at the Battalion level or higher, all the way up to Force levels, advising Majors all the way up to Generals of the readiness of their units with respect to personnel.',
+    "nato":"OR-9",
+    "abv":"SgtMa",
+    "address":"Sergeant Major (last name)",
+    "pay":"$5,052/mo"
+},
+ {
+  "id":10, "title":"Sergeant Major Of The Marine Corps",
+    "branch": "Marines",
+    "grade":"E-9",
+    "description":'The Sergeant Major of the Marine Corps is equal in rank to any other E-9, but with the special job of being the Senior Enlisted Advisor to the Commandant of the Marine Corps. He or she is the voice of all the Enlisted Marines in the USMC, and does his or her job by touring units across the Fleet.',
+    "nato":"OR-9",
+    "abv":"sgtMa",
+    "address":"Sergeant Major (last name)",
+    "pay":"$5,052/mo"
+}
+
+]

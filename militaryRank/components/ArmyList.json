@@ -1,0 +1,124 @@
+
+
+[{
+  "id": 0,
+  "title": "Private Second Class",
+  "branch": "Army",
+    "grade":"E-2",
+    "description":" This rank, known and often described as 'PV2', is also officially the rank of private. It is one step above the initial rank of private. Soldiers holding this rank have the insignia of one chevron to differentiate them from newly enlisted privates.\n\n Privates holding the rank of E-2 are the most basic soldiers in the active Army. There are in charge of only themselves and their job is to execute an assigned duty to the best of their ability as well as to follow all the commands of those appointed over them.",
+    "nato":"OR-2",
+    "abv":"PV2",
+    "address":"Private (last name)",
+    "pay":"$1,793/mo"
+  },
+  {
+    "id":1, "title":"Private First Class",
+    "branch": "Army",
+    "grade":"E-3",
+    "description":'A Private First Class is the highest-ranking level of private in the Army. They are recognized as masters of individual responsibility, and they carry out all tasks and orders assigned to them to the best of their ability.\n\n An individual can enter basic training or join the military with prior military experience and begin at the rank of Private First Class. Privates First Class are the workforce of the US Army, comprising the most populous rank across the organization.\n\n During their time in grade, Privates First Class master all individual duties and responsibilities, preparing them to move on the next rank and start receiving leadership and supervisory duties responsibilities over other soldiers.',
+    "nato":"OR-3",
+    "abv":"PFC",
+    "address":"Private (last name)",
+    "pay":"$1,885/mo"
+  },
+ {
+   "id":2, "title":"Specialist",
+    "branch": "Army",
+    "grade":"E-4",
+    "description":'A soldier in the Army holding the rank of Specialist holds the first rank with leadership responsibilities. Unofficially known as a team leader, Specialists manage a small number of other soldiers of lower rank, privates of all class.\n\n Officially, the job of a specialist is to ensure soldiers under their charge are experts in the their individual responsibilities and duties. Specialists themselves are recognized experts in the specialized knowledge of individual soldiers in all capacities; it is from this qualification that the name and title of specialists arises.\n\n Specialist is a common rank in the Army, achieved after a minimum of two years of service and after consistently demonstrated good performance of individual duties and responsibilities.',
+    "nato":"OR-4",
+    "abv":"SPC",
+    "address":"Specialist (last name)",
+    "pay":"$2,088/mo"
+ },
+ {
+   "id":3, "title":"Corporal",
+    "branch": "Army",
+    "grade":"E-4",
+    "description":'Soldiers bearing the rank of Corporal occupy the first rank of the levels of Non-Commissioned Officers (NCO\'s) in the Army. NCO\'s are responsible the training, performance, appearance, and well being of soldiers.\n\n Corporals occupy the position of team leaders. Although this job is often given to Specialists, since the rank of Specialist is given out much more often than Corporal, it is officially the responsibility of Corporals, since the job of leading soldiers is reserved for NCO\'s.\n\n Corporals are in charge of a team of soldiers, ranging from two to five personnel, and they are directly responsible for every aspect of the military lives of their soldiers. In addition, they are expected to take care of their soldiers outside of work, ensuring their personal lives are in order and providing them all the help and resources needed when problems arise.',
+    "nato":"OR-4",
+    "abv":"CPL",
+    "address":"Corporal (last name)",
+    "pay":"$2,088/mo"
+ },
+ {
+   "id":4, "title":"Sergeant",
+    "branch": "Army",
+    "grade":"E-5",
+    "description":'A Sergeant is a soldier in the United States Army. Soldiers holding the rank of Sergeant serve as squad leaders, groups of eight to fourteen soldiers.\n\n Occasionally, Sergeants are given command of teams, one unit size smaller than squads, when there exists an excess of non-commissioned officers (NCO\'s) in rank of Sergeant or above.\n\n That said, according the US Army\'s Modification Table of Organization and Equipment (MTO&E), Sergeants are supposed to serve as team leaders, while the next highest rank, that of Staff Sergeant, is supposed to serve as squad leaders.\n\n However, given the number of sergeants serving the in the Army and the rate at which promotion works, it has become accepted practice for a Sergeant to serve as a squad leader more often than a team leader.\n\n Sergeants are responsible for the daily caretaking, training, equipping, physical appearance and fitness, and well-being of the soldiers assigned under them. They also stand responsible for the personal lives of their soldiers and charged with making sure they are in order or helping them to become so when problems are identified.',
+    "nato":"OR-5",
+    "abv":"SGT",
+    "address":"Sergeant (last name)",
+    "pay":"$2,278/mo"
+ },
+ {
+   "id":5, "title":"Staff Sergeant",
+    "branch": "Army",
+    "grade":"E-6",
+    "description":'A Staff Sergeant is a non-commissioned officer (NCO) in the United States Army usually placed in command of a squad of 9-10 soldiers.\n\n In rare situations, a Staff Sergeant may be placed in command of a larger unit such as a platoon comprising of two to four squads containing anywhere from 16 to 50 soldiers.\n\n In a leadership position, Staff Sergeants will regularly have one or more Sergeants serving under them, and will be responsible for reviewing the performance of their subordinates with periodic Noncommissioned Officer Evaluation Reports.\n\n As an experienced NCO, Staff Sergeants are expected to mentor and effectively lead the soldiers and newly promoted NCOs under them. Alongside field NCOs, soldiers may also be promoted to Staff Sergeant in order to serve in headquarters support positions - these positions are generally referred to as "Staff NCOs".',
+    "nato":"OR-6",
+    "abv":"SSG",
+    "address":"Sergeant (last name)",
+    "pay":"$2,486/mo"
+ },
+ {
+   "id":6, "title":"Sergeant First Class",
+    "branch": "Army",
+    "grade":"E-7",
+    "description":'A First Sergeant is a senior non-commissioned officer (NCO) in the United States Army. As with Master Sergeants, since they serve in the same grade of E-8, soldiers serving at this level usually have a minimum of 15 years of experience in the Army and often many more years of service by the time they attain this rank.\n\n Soldiers holding this rank serve as the senior NCO in a company-sized unit, around 150 soldiers.\n\n They are recognized as the most tactically and technically competent as well as experienced NCO\'s in companies.\n\n Standing as the final NCO authority at the company level, the are the ultimate enforcers of standards and discipline as well as the final authority on all aspects of soldiering, including but not limited to tactics, techniques, procedures, and living as a member of the United States Army.\n\n Soldiers serving underneath them revere First Sergeants and even officers who work with them at the company level recognize them as the experts and often the final authority on Army matters, despite officers technically holding higher rank.',
+    "nato":"OR-7",
+    "abv":"SFC",
+    "address":"Sergeant (last name)",
+    "pay":"$2,875/mo"
+ },
+ {
+   "id":7, "title":"Master Sergeant",
+    "branch": "Army",
+    "grade":"E-8",
+    "description":'Sergeants Major are non-commissioned officers (NCO\'s) in the United States Army. They are the highest-ranking enlisted soldiers in the military.\n\n Soldiers holding the rank of Sergeant Major serve at the battalion level or higher in staff positions, helping to plan, resource, and conduct unit missions as well as providing valuable insight and advice, based on careers\' worth of experience and expertise, into how such operations could be better conducted in the future.\n\nSergeants Major have a minimum of eighteen years of experience in the Army and often much more than that upon receiving their rank. Their expertise and competence, both technically and tactically, is matched only by other Sergeants Major.\n\n Although they do not directly hold leadership positionsâ€”such jobs are held by Command Sergeants Major, soldiers of the same rank but with different responsibilitiesâ€”they still have charge of all those appointed underneath them in staff positions and those making leadership decisions still often turn them to for advice and help.',
+    "nato":"OR-8",
+    "abv":"MSG",
+    "address":"Sergeant (last name)",
+    "pay":"$4,136/mo"
+ },
+ {
+   "id":8, "title":"First Sergeant",
+    "branch": "Army",
+    "grade":"E-8",
+    "description":'A First Sergeant is a senior non-commissioned officer (NCO) in the United States Army. As with Master Sergeants, since they serve in the same grade of E-8, soldiers serving at this level usually have a minimum of 15 years of experience in the Army and often many more years of service by the time they attain this rank.\n\n Soldiers holding this rank serve as the senior NCO in a company-sized unit, around 150 soldiers.\n\n They are recognized as the most tactically and technically competent as well as experienced NCO\'s in companies.\n\n Standing as the final NCO authority at the company level, the are the ultimate enforcers of standards and discipline as well as the final authority on all aspects of soldiering, including but not limited to tactics, techniques, procedures, and living as a member of the United States Army.\n\n Soldiers serving underneath them revere First Sergeants and even officers who work with them at the company level recognize them as the experts and often the final authority on Army matters, despite officers technically holding higher rank.',
+    "nato":"OR-8",
+    "abv":"1SG",
+    "address":"First Sergeant (last name)",
+    "pay":"$4,136"
+ },
+ {
+   "id":9, "title":"Sergeant Major",
+    "branch": "Army",
+    "grade":"E-9",
+    "description":'Sergeants Major are non-commissioned officers (NCO\'s) in the United States Army. They are the highest-ranking enlisted soldiers in the military.\n\n Soldiers holding the rank of Sergeant Major serve at the battalion level or higher in staff positions, helping to plan, resource, and conduct unit missions as well as providing valuable insight and advice, based on careers\' worth of experience and expertise, into how such operations could be better conducted in the future.\n\n Sergeants Major have a minimum of eighteen years of experience in the Army and often much more than that upon receiving their rank. Their expertise and competence, both technically and tactically, is matched only by other Sergeants Major.\n\n Although they do not directly hold leadership positionsâ€”such jobs are held by Command Sergeants Major, soldiers of the same rank but with different responsibilitiesâ€”they still have charge of all those appointed underneath them in staff positions and those making leadership decisions still often turn them to for advice and help.',
+    "nato":"OR-9",
+    "abv":"SGM",
+    "address":"Sergeant Major (last name)",
+    "pay":"$5,052/mo"
+ },
+ {
+   "id":10, "title":"Command Sergeant Major",
+    "branch": "Army",
+    "grade":"E-9",
+    "description":'Command Sergeants Major are non-commissioned officers (NCO\'s) in the United States Army. As with Sergeants Major, they are the highest-ranking enlisted soldiers in the military, as they share the same grade but have different duties and responsibilities.\n\n Command Sergeants Major hold leadership positions at the battalion level all the way thru the levels of units (battalion, brigade, division, corps, combatant command, forces, command) up to the entire Army, which position is held by the Sergeant Major of the Army.\n\n In the units in which they serve, they are senior-most NCO and the final authority on standards and discipline as well as the all aspects of military life that soldiers experience.\n\n Command Sergeants Major serve alongside the commanders of units at the battalion level and above, providing these officers invaluable insight and advice as they make decisions on how to train and prepare their units to accomplish their assigned missions.\n\n Command Sergeants Major represent the epitome of success as an enlisted soldier in the United States Army.',
+    "nato":"OR-9",
+    "abv":"CSM",
+    "address":"Command Sergeant Major (last name)",
+    "pay":"$5,052/mo"
+ },
+ {
+   "id":11, "title":"Sergeant Major of the Army",
+    "branch": "Army",
+    "grade":"E-9",
+    "description":'The Sergeant Major of the Army (SMA) is the highest ranking enlisted solider in the entire United States Army, held by one enlisted soldier at a time.\n\n It is the most prestigious and honorable of all enlisted ranks, titles, and positions.\n\n The SMA serves at the right hand of the Chief of Staff of the Army (CSA), the highest ranking and senior most general officer in the Army. He serves as both as an advisor to the CSA as well as the final authority on standards and discipline for all soldiers in the Army, enlisted and officer.\n\n Additionally, he serves to address at the highest level any and all issues for the members of the Army\'s enlisted.\n\n The exact duties and responsibilities of the SMA are the purview of the CSA, but these aforementioned ones have become standard for all SMA\'s. Beyond these, they execute orders and tasks assigned them by their respective CSA\'s.\n\nFinally, they serve to try and keep the senior officers in the Army, specifically the CSA, aware of how policies and actions at the Army level affect soldiers down at the active unit level.',
+    "nato":"OR-9",
+    "abv":"SMA",
+    "address":"Sergeant Major of the Army (last name)",
+    "pay":"$5,052/mo"
+ }
+]

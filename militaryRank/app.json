@@ -1,0 +1,17 @@
+{
+  "name": "MilitaryRanks",
+  "displayName": "MilitaryRanks",
+  "expo": {
+    "name": "MilitaryRanks",
+    "slug": "MilitaryRanks",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
