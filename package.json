@@ -10,9 +10,9 @@
   "dependencies": {
     "@expo/vector-icons": "^10.2.0",
     "expo": "^38.0.0",
-    "expo-cli": "^3.23.3",
+    "expo-cli": "^6.0.6",
     "expo-font": "~8.2.1",
-    "expo-optimize": "^0.1.40",
+    "expo-optimize": "^0.1.114",
     "expo-updates": "~0.2.8",
     "native-base": "2.13.8",
     "react": "16.11.0",
